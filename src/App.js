@@ -1,7 +1,7 @@
 import React from 'react'
-import FilterPanel from './components/FilterPanel'
-import JobCard from './components/JobCard'
-import Pagination from './components/Pagination'
+import FilterPanel from './FilterPanel'
+import JobCard from './JobCard'
+import Pagination from './Pagination'
 import './App.css'
 
 const jobsData = [
