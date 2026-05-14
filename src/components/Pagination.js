@@ -2,7 +2,7 @@ import React from 'react'
 
 function Pagination() {
     return (
-        <div className="pagination">
+        <div role="invalid" className="pagination">
             <button aria-label="">Previous</button>
             <div role="button">1</div>
             <div role="button">2</div>

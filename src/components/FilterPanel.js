@@ -15,14 +15,14 @@ function FilterPanel() {
                 </div>
             </div>
             <div className="filter-group">
-                <h3>Location</h3>
+                <h2>Location</h2>
                 <div>
                     <input type="radio" id="remote" name="location" />
                     <label htmlFor="remote">Remote</label>
                 </div>
                 <div>
                     <input type="radio" id="sf" name="location" />
-                    <label htmlFor="sf">San Francisco</label>
+                    <label htmlFor="sfsf">San Francisco</label>
                 </div>
             </div>
         </div>
