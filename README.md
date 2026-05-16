@@ -4,7 +4,7 @@
 
 - 1x invalid heading strucutre
 - 4x bad color contrast
-- 2x text is clipped
+- 2x not enough clickable space
 - 1x wrong language tag
 - 1x bad maximum-scale
 - 1x bad refresh value
