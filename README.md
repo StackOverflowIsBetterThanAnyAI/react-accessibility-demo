@@ -17,3 +17,5 @@
 - 6x aria-labelledby cannot be used on specific element
 - 1x missing fieldset for radio buttons
 - 1x missing fieldset for checkboxes
+- 2x insufficient contrast in hover state
+- 2x insufficient contrast in focus state
